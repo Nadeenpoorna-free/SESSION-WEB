@@ -13,20 +13,25 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 
 const MESSAGE = process.env.MESSAGE ||  `
-*SESSION GENERATED SUCCESSFULY* ✅
+*𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐘* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+> ❗𝙳𝚘𝚗'𝚝 𝚂𝚑𝚊𝚛𝚎 𝚃𝚑𝚒𝚜 𝙲𝚘𝚍𝚎 𝚆𝚒𝚝𝚑 𝙰𝚗𝚢𝚘𝚗𝚎!!!❗
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
+🌟 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
+https://github.com/https://github.com/Nadeenpoorna-free/NADEEN-MD
+
+💭 *Sᴜᴘᴘᴏʀᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ* 💭
 https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
 
+🪄 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
+https://youtube.com/@NADEEN-MD
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
+👨🏻‍💻 *Cᴏɴᴛᴀᴄᴛ ʙᴏᴛ ᴏᴡɴᴇʀ* 👨🏻‍💻
+https://wa.me/94711451319
 
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+> *👨‍🔧Mᴀᴅᴇ Bʏ Nᴀᴅᴇᴇɴ Pᴏᴏʀɴᴀ👨‍🔧*
+
+*✨N̳̿͟͞A̳̿͟͞D̳̿͟͞E̳̿͟͞E̳̿͟͞N̳̿͟͞-M̳̿͟͞D̳̿͟͞--W̳̿͟͞H̳̿͟͞A̳̿͟͞T̳̿͟͞T̳̿͟͞S̳̿͟͞A̳̿͟͞P̳̿͟͞P̳̿͟͞-B̳̿͟͞O̳̿͟͞T̳̿͟͞✨*
 `
 
 
@@ -171,7 +176,7 @@ if (fs.existsSync('./auth_info_baileys')) {
 
 
 
-                        const string_session = mega_url.replace('https://mega.nz/file/', '');
+                        const string_session = mega_url.replace('https://mega.nz/file/', '𝙽𝙰𝙳𝙴𝙴𝙽-𝙼𝙳=');
 
 
 
